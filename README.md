@@ -2,7 +2,7 @@
 
 A reaction time game for Arduino Uno: an LED lights up at a random moment, you press the button as fast as you can, and your time is logged with a timestamp to a CSV file on an SD card. Use it to see how your reaction time changes throughout the day.
 
-<!-- ![Project photo](images/project.jpg) -->
+![Project photo](images/project.jpg)
 
 ## How it works
 
