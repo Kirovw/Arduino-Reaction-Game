@@ -44,7 +44,3 @@ To analyze the data, open `REACT.CSV` in Excel or Google Sheets and chart the ti
 ## Known issues
 
 Small servos can draw more current than a USB port provides. If the servo hums but does not turn, add a 100-470 µF capacitor between 5V and GND or power it separately.
-
-## License
-
-MIT
