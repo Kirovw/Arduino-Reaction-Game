@@ -68,7 +68,7 @@ void logResult(const char* result) {
   }
 }
 
-// Сервото се закача само докато се движи, за да не дърпа ток и да не дрънчи
+// Сервото се закача само докато се движи
 void nod() {
   servo.attach(SERVO_PIN);
   for (int i = 0; i < 3; i++) {
